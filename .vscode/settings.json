@@ -1,0 +1,7 @@
+{
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.defaultCloneDirectory": "",
+    "git.allowForcePush": true,
+    "files.autoSaveDelay": 874
+}
