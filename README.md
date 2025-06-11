@@ -3,12 +3,6 @@
 
 Welcome to my Python projects repository. Here you'll find various Python scripts and projects demonstrating my coding skills in Python.
 
-## Projects Included
-
-- **Project1 Name**: Brief description of what it does.
-- **Project2 Name**: Brief description.
-- *(Add more projects as you add them)*
-
 ## Getting Started
 
 ### Prerequisites
