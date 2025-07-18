@@ -1,4 +1,4 @@
-To improve the documentation for your [Python GitHub repo](https://github.com/ManibalaSinha/Python), you should:
+To improve the python documentation for your [Python GitHub repo](https://github.com/ManibalaSinha/Python), you should:
 
 
 This is **critical** — it’s the first thing recruiters and hiring managers see.
